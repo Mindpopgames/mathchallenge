@@ -10,13 +10,13 @@ Thank you for choosing Math Challenge: Multiplication. Your privacy is important
 ### Camera Access
 Math Challenge: Multiplication requires access to your device's camera to capture an image of the possible reward you receive upon completing a challenge. This image is saved locally in the app's database and is not shared or transmitted outside your device.
 
-The  permissions required by the app are:
+The permissions required by the app are:
 
 <br/>
 
 | Permission | Why it is required |
 | :---: | --- |
-| `android.permission.CAMERA` | Introduced in Android 13 (API level 33), this permission allows the app to set an exact alarm with the Android system, ensuring that the system will wake up from doze mode when the alarm rings. Granted by the system by default and cannot be revoked by the user. Requested in Android 13 and above. |
+| `android.permission.CAMERA` | Required to access your device's camera to capture an image of the possible reward you receive upon completing a challenge. |
  <hr style="border:1px solid gray">
 
 ## How We Use Your Information
